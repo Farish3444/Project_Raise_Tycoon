@@ -12,7 +12,7 @@ import Jobs from "./components/JobsPage";
 import DashBoard from "./components/DashBoard";
 import About from "./components/about";
 import LoginForm from "./components/LoginForm";
-import Train from "./components/tain";
+import Train from "./components/train";
 
 function App() {
   return (
